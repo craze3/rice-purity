@@ -4,7 +4,7 @@ const Brief = () => {
   return (
     <div className='card brief'>
       <div className='card-body text-center'>
-        <h4 className='card-title'>A Weighted Rice Purity Test</h4>
+        <h4 className='card-title'>Test your innocence!</h4>
         <h5 className='card-subtitle mb-2 text-muted'>Have you ever...</h5>
         <button 
           className='btn btn-teal badge rounded-pill p-2 shadow-sm' type='button' 
@@ -25,12 +25,10 @@ const Brief = () => {
         <div className='collapse mt-2' id='description'>
           <div className='card card-body shadow-sm'>
             <p>
-              Click on every item you've done. After submitting the test, a Purity Score will be calculated. The Classic 
-              Purity Score will be shown for reference. This test differs from the Rice Purity Test in that it looks 
-              better and that every question is associated with a weight. This is assuming that not all questions on this
-              test equally impact how pure you are. In other words, using methamphetamine is a little more immoral than
-              holding hands, and this test reflects that. Checking off severe acts will lower your purity quicker than 
-              checking off minor acts.
+            Ever wondered how "pure" or "naughty" you are when it comes to life's adventures? 
+            The Rice Purity Test is a self-graded questionnaire that aims to assess one's level of innocence in various areas, such as social, romantic, and academic experiences.
+            To start, click on every item below that you've done. Afterwards, a Rice Purity score will be calculated. This is a number between 0 and 100 that tells you how "pure" or "naughty" you are.
+            The results are instant and the test works on any device. Share your score with your squad and see who's the most innocent among you! 🤪
             </p>
            
             <p className='text-danger font-weight-bold'>
