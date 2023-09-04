@@ -20,7 +20,7 @@ const Header = (props) => {
 
                 <div className='col'>
                   <h5>{TotalQuestions - props.count}</h5>
-                  <h6 className='text-muted'>Classic Purity</h6>
+                  <h6 className='text-muted'>Rice Purity</h6>
                 </div>
 
                 <div className='col'>
