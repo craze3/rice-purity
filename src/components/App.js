@@ -145,8 +145,8 @@ class App extends Component {
           </div>
         </main>
         <footer>
-          <div class="container text-center font-italic text-muted p-4">
-            Spartans Will
+          <div class="container text-center text-muted p-4">
+            Copyright 2023. Rice Purity Test
           </div>
         </footer>
       </Fragment>

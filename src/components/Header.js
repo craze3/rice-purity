@@ -9,7 +9,7 @@ const Header = (props) => {
           <div className='row'>
             <div className='col-lg-6 col-md-8 col-12 mx-auto'>
               <div className='row'>
-                <h3 className='font-weight-bolder'>State Purity</h3>
+                <h3 className='font-weight-bolder'>Rice Purity Test</h3>
               </div>
           
               <div className='row'>
