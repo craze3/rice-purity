@@ -10,6 +10,7 @@ const Brief = () => {
           className='btn btn-teal badge rounded-pill p-2 shadow-sm' type='button' 
           data-toggle='collapse' data-target='#description' 
           aria-expanded='false' aria-controls='description'
+          aria-label='Learn More' title='Learn More'
         >
           <svg 
             width='1.4em' height='1.4em' viewBox='0 0 16 16' 
