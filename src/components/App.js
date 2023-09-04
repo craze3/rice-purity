@@ -145,7 +145,7 @@ class App extends Component {
           </div>
         </main>
         <footer>
-          <div class="container text-center text-muted p-4">
+          <div className="container text-center text-muted p-4">
             Copyright 2023. Rice Purity Test
           </div>
         </footer>
